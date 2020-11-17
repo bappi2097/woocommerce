@@ -1,0 +1,548 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WPbKash - bKash for WooCommerce\n"
+"POT-Creation-Date: 2020-03-07 12:50+0600\n"
+"PO-Revision-Date: 2020-03-07 12:49+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpbkash.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/EntryTable.php:42
+msgid "No entry found"
+msgstr ""
+
+#: admin/EntryTable.php:86
+msgid "Entry"
+msgstr ""
+
+#: admin/EntryTable.php:87 admin/pages/edit.php:84 admin/pages/view.php:58
+msgid "Transaction ID"
+msgstr ""
+
+#: admin/EntryTable.php:88 admin/pages/view.php:90
+msgid "Sender"
+msgstr ""
+
+#: admin/EntryTable.php:89
+msgid "Status"
+msgstr ""
+
+#: admin/EntryTable.php:90
+msgid "Type"
+msgstr ""
+
+#: admin/EntryTable.php:91
+msgid "Date"
+msgstr ""
+
+#: admin/EntryTable.php:117 admin/EntryTable.php:129
+msgid "Edit this item"
+msgstr ""
+
+#: admin/EntryTable.php:118 admin/pages/view.php:51
+msgid "Edit"
+msgstr ""
+
+#: admin/EntryTable.php:130 admin/pages/edit.php:77
+msgid "View"
+msgstr ""
+
+#: admin/EntryTable.php:141
+msgid "Delete this item"
+msgstr ""
+
+#: admin/EntryTable.php:142 admin/EntryTable.php:232
+msgid "Delete"
+msgstr ""
+
+#: admin/EntryTable.php:166
+msgid "Created at"
+msgstr ""
+
+#. translators: %s: Human-readable time difference.
+#: admin/EntryTable.php:174
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: admin/EntryTable.php:201
+msgid "Username: "
+msgstr ""
+
+#: admin/EntryTable.php:269
+#, php-format
+msgid "%s Entry has been deleted."
+msgstr ""
+
+#: admin/EntryTable.php:287
+msgid "All"
+msgstr ""
+
+#: admin/EntryTable.php:288 admin/pages/edit.php:97 admin/pages/edit.php:117
+msgid "Completed"
+msgstr ""
+
+#: admin/EntryTable.php:289 admin/pages/edit.php:96 admin/pages/edit.php:116
+msgid "Pending"
+msgstr ""
+
+#: admin/EntryTable.php:290 admin/pages/edit.php:98 admin/pages/edit.php:118
+msgid "Failed"
+msgstr ""
+
+#: admin/Settings.php:78 admin/Settings.php:79
+msgid "WPbKash"
+msgstr ""
+
+#: admin/Settings.php:90 admin/Settings.php:91
+msgid "All Entries"
+msgstr ""
+
+#: admin/Settings.php:98 admin/Settings.php:164
+msgid "WPbKash Settings"
+msgstr ""
+
+#: admin/Settings.php:99
+msgid "Settings"
+msgstr ""
+
+#: admin/Settings.php:171
+msgid "Test Mode"
+msgstr ""
+
+#: admin/Settings.php:179
+msgid "App Key"
+msgstr ""
+
+#: admin/Settings.php:186
+msgid "App Secret"
+msgstr ""
+
+#: admin/Settings.php:193
+msgid "Username"
+msgstr ""
+
+#: admin/Settings.php:200
+msgid "Password"
+msgstr ""
+
+#: admin/Settings.php:266
+msgid "Setup your bKash app info and credentials."
+msgstr ""
+
+#: admin/Settings.php:270
+msgid "Testmode is enabled"
+msgstr ""
+
+#: admin/Settings.php:288
+msgid "Enable Test Mode"
+msgstr ""
+
+#: admin/pages/edit.php:18 admin/pages/view.php:19
+msgid "Not Entry Found"
+msgstr ""
+
+#: admin/pages/edit.php:53
+msgid "Entry updated."
+msgstr ""
+
+#: admin/pages/edit.php:54 admin/pages/edit.php:59
+msgid "Dismiss this notice."
+msgstr ""
+
+#: admin/pages/edit.php:58
+msgid "ERROR: Something went wrong try again later."
+msgstr ""
+
+#: admin/pages/edit.php:66
+msgid " Entry Edit Details"
+msgstr ""
+
+#: admin/pages/edit.php:92 admin/pages/view.php:74
+msgid "Transaction Status"
+msgstr ""
+
+#: admin/pages/edit.php:104 admin/pages/view.php:66
+msgid "Amount"
+msgstr ""
+
+#: admin/pages/edit.php:112 admin/pages/view.php:82
+msgid "Entry Status"
+msgstr ""
+
+#: admin/pages/edit.php:127
+msgid "Update Entry"
+msgstr ""
+
+#: admin/pages/list.php:15
+msgid "Entries List"
+msgstr ""
+
+#: admin/pages/view.php:40
+msgid "View Entry Details"
+msgstr ""
+
+#: admin/pages/view.php:98
+msgid "Sender User ID"
+msgstr ""
+
+#: admin/pages/view.php:106
+msgid "Reference/Type"
+msgstr ""
+
+#: admin/pages/view.php:114
+msgid "Reference ID"
+msgstr ""
+
+#: admin/pages/view.php:122
+msgid "Created Date"
+msgstr ""
+
+#: admin/pages/view.php:130
+msgid "Updated Date"
+msgstr ""
+
+#: includes/WPCF7/Ajax.php:59 includes/WPCF7/Ajax.php:87
+msgid "Wrong or invalid entry ID"
+msgstr ""
+
+#: includes/WPCF7/Ajax.php:80 includes/WooCommerce/Ajax.php:80
+msgid "Invalid token or expired"
+msgstr ""
+
+#: includes/WPCF7/Ajax.php:98 includes/WooCommerce/Ajax.php:111
+msgid "Something wen't wrong please try again."
+msgstr ""
+
+#: includes/WPCF7/Ajax.php:113 includes/WooCommerce/Ajax.php:126
+msgid ""
+"We are currently experiencing problems trying to connect to this payment "
+"gateway. Sorry for the inconvenience."
+msgstr ""
+
+#. translators: Privacy data request confirmed notification email subject. 1: Site title, 2: Name of the confirmed action.
+#: includes/WPCF7/Ajax.php:274
+#, php-format
+msgid "[%1$s] Payment Confirmed"
+msgstr ""
+
+#: includes/WPCF7/WPCF7Loader.php:54
+#, php-format
+msgid ""
+"Something wen't wrong, please try again or contact with <a href=\"%s\">site "
+"admin</a>."
+msgstr ""
+
+#: includes/WPCF7/WPCF7Loader.php:85 includes/WPCF7/WPCF7Loader.php:91
+#: includes/WPCF7/WPCF7Loader.php:101
+msgid "Key is invalid or expired"
+msgstr ""
+
+#: includes/WPCF7/WPCF7Loader.php:96
+msgid "Key is already used"
+msgstr ""
+
+#: includes/WPCF7/WPCF7Loader.php:168 includes/WooCommerce/Process.php:26
+msgid "Pay With"
+msgstr ""
+
+#: includes/WPCF7/WPCF7Loader.php:169 includes/WooCommerce/Process.php:27
+#: includes/WooCommerce/WCBkashGateway.php:216
+msgid "Pay With bKash"
+msgstr ""
+
+#: includes/WPCF7/WPCF7Loader.php:182
+msgid "Your payment has been received successfully."
+msgstr ""
+
+#: includes/WPCF7/WPCF7Loader.php:196
+msgid "something went wrong please try again later."
+msgstr ""
+
+#: includes/WPCF7/WPCF7Loader.php:200
+msgid "Go back to home"
+msgstr ""
+
+#. translators: Privacy data request confirmed notification email subject. 1: Site title, 2: Name of the confirmed action.
+#: includes/WPCF7/WPCF7bKash.php:142
+#, php-format
+msgid "[%1$s] Verify your email"
+msgstr ""
+
+#: includes/WPCF7/WPCF7bKash.php:279
+msgid "Amount can't be empty."
+msgstr ""
+
+#: includes/WPCF7/WPCF7bKash.php:280
+msgid "Email tag field can't be empty."
+msgstr ""
+
+#: includes/WPCF7/WPCF7bKash.php:281
+msgid "Message box can't be empty."
+msgstr ""
+
+#: includes/WPCF7/WPCF7bKash.php:282
+msgid "Please input a valid tag."
+msgstr ""
+
+#: includes/WPCF7/WPCF7bKash.php:283
+msgid "You need to input [wpbkash-paymenturl] tag in mail box."
+msgstr ""
+
+#: includes/WPCF7/WPCF7bKash.php:297 includes/WooCommerce/WCBkashGateway.php:28
+#: includes/WooCommerce/WCBkashGateway.php:33
+msgid "bKash"
+msgstr ""
+
+#: includes/WPCF7/WPCF7bKash.php:314
+msgid "https://contactform7.com/additional-settings/"
+msgstr ""
+
+#: includes/WPCF7/WPCF7bKash.php:315
+msgid "WPbKash bKash Settings"
+msgstr ""
+
+#: includes/WPCF7/WPCF7bKash.php:317
+#, php-format
+msgid "Use listed shortcode for proper email body. For details, see %s."
+msgstr ""
+
+#: includes/WPCF7/WPCF7bKash.php:332
+msgid "Additional Settings"
+msgstr ""
+
+#: includes/WPCF7/WPCF7bKash.php:341
+msgid "WPbKash Mail Tags"
+msgstr ""
+
+#: includes/WPCF7/WPCF7bKash.php:360
+msgid "Enable bKash"
+msgstr ""
+
+#: includes/WPCF7/WPCF7bKash.php:368
+msgid "Payment Amount"
+msgstr ""
+
+#: includes/WPCF7/WPCF7bKash.php:372
+msgid "bKash Payment Amount (BDT) in number. eg: 150"
+msgstr ""
+
+#: includes/WPCF7/WPCF7bKash.php:377
+msgid "Customer Email Tag"
+msgstr ""
+
+#: includes/WPCF7/WPCF7bKash.php:381
+msgid ""
+"Add contact form 7 user email input tag. eg: [your-email]. NOTE: WPbKash "
+"will be send mail to this tag value as recipient."
+msgstr ""
+
+#: includes/WPCF7/WPCF7bKash.php:386
+msgid "Payment Email Body"
+msgstr ""
+
+#: includes/WPCF7/WPCF7bKash.php:395 includes/WPCF7/WPCF7bKash.php:409
+msgid "Use HTML content type"
+msgstr ""
+
+#: includes/WPCF7/WPCF7bKash.php:400
+msgid "Payment Confirmation Body"
+msgstr ""
+
+#: includes/WPCF7/WPCF7bKash.php:410
+msgid "Turn off confirmation mail"
+msgstr ""
+
+#: includes/WooCommerce/Ajax.php:57 includes/WooCommerce/Ajax.php:87
+msgid "Wrong or invalid order ID"
+msgstr ""
+
+#: includes/WooCommerce/Ajax.php:96
+msgid "you don't have permission to continue"
+msgstr ""
+
+#: includes/WooCommerce/Ajax.php:142
+#, php-format
+msgid "bKash payment completed with TrxID#%1$s! bKash amount: %2$s"
+msgstr ""
+
+#: includes/WooCommerce/Init.php:50 includes/WooCommerce/WCBkashGateway.php:108
+msgid ""
+"WooCommerce bKash credentials are incorrect or missing any required field."
+msgstr ""
+
+#: includes/WooCommerce/Init.php:58
+#, php-format
+msgid ""
+"bKash server response is incorrect, please contact with <a href='mailto:"
+"%s'>site admin</a> or try later."
+msgstr ""
+
+#: includes/WooCommerce/Init.php:75
+msgid ""
+"bKash payment supports Bangladeshi taka (&#2547;) currency only. Please "
+"select Bangladeshi taka (BDT) from WooCommerce Currency options"
+msgstr ""
+
+#: includes/WooCommerce/Init.php:83
+msgid ""
+"WooCommerce bKash Payment is enabled, but Merchant credentials are missing"
+msgstr ""
+
+#: includes/WooCommerce/WCBkashGateway.php:29
+msgid "Pay via bKash payment"
+msgstr ""
+
+#: includes/WooCommerce/WCBkashGateway.php:126
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/WooCommerce/WCBkashGateway.php:128
+msgid "Enable bKash Payment"
+msgstr ""
+
+#: includes/WooCommerce/WCBkashGateway.php:131
+msgid "Title"
+msgstr ""
+
+#: includes/WooCommerce/WCBkashGateway.php:133
+msgid "bKash Payment"
+msgstr ""
+
+#: includes/WooCommerce/WCBkashGateway.php:136
+msgid "Description"
+msgstr ""
+
+#: includes/WooCommerce/WCBkashGateway.php:138
+msgid "Payment method description that the customer will see on your checkout."
+msgstr ""
+
+#: includes/WooCommerce/WCBkashGateway.php:139
+msgid "Pay via bKash: you can pay with your personal bKash account. "
+msgstr ""
+
+#: includes/WooCommerce/WCBkashGateway.php:143
+msgid "Instructions"
+msgstr ""
+
+#: includes/WooCommerce/WCBkashGateway.php:145
+msgid ""
+"Instruction that will be added to the order email sent to customer if the "
+"payment was not completed."
+msgstr ""
+
+#: includes/WooCommerce/WCBkashGateway.php:149
+msgid "Payment status notice"
+msgstr ""
+
+#: includes/WooCommerce/WCBkashGateway.php:151
+msgid "Thankyou page order payment notice if customer not yet paid."
+msgstr ""
+
+#: includes/WooCommerce/WCBkashGateway.php:152
+msgid ""
+"Payment was not completed. You can still complete your order by paying from "
+"here: "
+msgstr ""
+
+#: includes/WooCommerce/WCBkashGateway.php:156
+#, php-format
+msgid "Setup your bKash merchant credentials <a href=\"%s\">here</a>"
+msgstr ""
+
+#: includes/WooCommerce/WCBkashGateway.php:237
+msgid "Awaiting bKash payment"
+msgstr ""
+
+#. translators: Do not translate Shortcode like [wpbkash-sitename], [wpbkash-paymenturl], [wpbkash-siteurl]; those are placeholders.
+#: includes/functions.php:194
+msgid ""
+"Dear [your-name],\n"
+"\n"
+"Please click on the following link to verify your email address and to "
+"proceed with the payment. Note that without the email verification and "
+"payment – your registration will not be completed for the event. You will "
+"need to verify your email address within 10 minutes.\n"
+"\n"
+"Click on the link bellow to verify your email address and pay:\n"
+"\n"
+"[wpbkash-paymenturl]\n"
+"Amount: [wpbkash-amount]\n"
+"\n"
+"This is an auto generated email and please do not reply to this email. If "
+"you have any question, please write to [wpbkass-admin]\n"
+"\n"
+"Regards,\n"
+"All at [wpbkash-sitename]\n"
+"Tel: +880 0000-00000, \n"
+"[wpbkash-siteurl]"
+msgstr ""
+
+#. translators: Do not translate Shortcode like [wpbkash-sitename], [wpbkash-paymenturl], [wpbkash-siteurl]; those are placeholders.
+#: includes/functions.php:222
+msgid ""
+"Dear [your-name],\n"
+"\n"
+"Congratulations!\n"
+"\n"
+"You are now successfully registered for the Dhaka Half Marathon 2020. Please "
+"take a print of this email and keep it for collecting your t-shirt and "
+"running bib. Your registration details are as follows:\n"
+"\n"
+"Registration Details:\n"
+"\n"
+"First Name: \t\n"
+"Last Name: \t\n"
+"Email: \t\t\n"
+"Transaction ID: \t\n"
+"Registration ID:\n"
+"Blah blah .....\n"
+"\n"
+"We wish you all the best for the event.\n"
+"\n"
+"Regards,\n"
+"All at [wpbkash-sitename]\n"
+"Tel: +880 0000-00000, \n"
+"[wpbkash-siteurl]\n"
+"\n"
+"This is an auto generated email and please do not reply to this email. If "
+"you have any question, please write to contact@example.com"
+msgstr ""
+
+#: wpbkash.php:84 wpbkash.php:93
+msgid "Nope"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WPbKash - bKash for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/wpbkash/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "bKash payment gateway integration for WooCommerce"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "themepaw"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themepaw.com"
+msgstr ""

@@ -1,0 +1,21 @@
+{
+    "name": "themepaw/wpbkash",
+    "description": "bKash payment gateway integration for WordPress",
+    "type": "wordpress-plugin",
+    "license": "GPLv2 or later",
+    "authors": [
+        {
+            "name": "Mohammad Limon",
+            "email": "mlimonbd@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Themepaw\\bKash\\": "./includes",
+            "Themepaw\\bKash\\Admin\\": "./admin"
+        },
+        "files": [ "includes/functions.php" ]
+    }
+}

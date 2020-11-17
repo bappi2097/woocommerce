@@ -1,0 +1,45 @@
+#contact-form-editor-tabs li#WPbKash-bKash-tab {
+    background-image: url(../images/bkash-large.svg);
+    background-size: 80px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0 20px;
+}
+
+#contact-form-editor-tabs li#WPbKash-bKash-tab a{
+    opacity: 0;
+}
+
+#contact-form-editor #WPbKash-bKash.contact-form-editor-panel fieldset legend {
+    margin-bottom: 20px;
+}
+
+#contact-form-editor .form-table.WPbKash--form-table th {
+    width: 120px;
+}
+
+.wpbkash--suggested-tags .mailtag {
+    display: inline-block;
+    margin: 0 0 0 4px;
+    padding: 1px 2px;
+    cursor: pointer;
+}
+
+.wpbkash--suggested-tags h4 {
+    padding-left: 8px;
+    margin-bottom: 5px;
+}
+
+table.form-table.wpbkash--form-table input.error,
+table.form-table.wpbkash--form-table textarea.error {
+    border-color: #d00 !important;
+}
+
+span.wpbkash_error_msg span {
+    margin-left: 0;
+}
+span.wpbkash_error_msg {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}

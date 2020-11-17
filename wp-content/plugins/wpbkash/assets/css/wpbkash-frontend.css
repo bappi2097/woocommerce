@@ -1,0 +1,331 @@
+.wpbkash--frontend-container {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.wpbkash--frontend-header {
+    padding: 20px 0;
+    background-color: #0663B2;
+}
+
+.wpbkash--frontend-header-wrap {
+    text-align: center;
+}
+
+.wpbkash--frontend-header-logo {
+    max-width: 35px;
+}
+
+.wpbkash--frontend-btn {
+    border: 1px solid #fff;
+    color: #fff;
+    padding: 9px 18px;
+    border-radius: 50px;
+    text-decoration: none;
+}
+
+.wpbkash--frontend-main {
+    background-color: #F5F7FA;
+    padding: 100px 0;
+}
+
+.wpbkash--frontend-main-contant {
+    margin: 0px auto;
+    max-width: 400px;
+    text-align: center;
+    padding: 36px 27px 70px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(139, 139, 139, 0.5) 0px 2px 2px 0px;
+    opacity: 1 !important;
+    -webkit-transition: all 0.4s ease 1s;
+    transition: all 0.4s ease 1s;
+    min-height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.wpbkash--frontend-main-contant h4 {
+    margin: 0 0 7px;
+    font-size: 20px;
+}
+
+.wpbkash--frontend-main-contant p {
+    margin: 0;
+}
+
+.wpbkash--frontend-main-contant h5 {
+    margin: 0 0 14px;
+    text-transform: uppercase;
+}
+
+.wpbkash--frontend-price {
+    margin: 35px 0 0;
+}
+
+.wpbkash--frontendvalue {
+    font-size: 65px;
+}
+
+.wpbkash--frontend-currency {
+    font-size: 24px;
+    vertical-align: top;
+}
+
+.wpbkash--frontend-next {
+    background-color: #0070ba;
+    min-width: 260px;
+    display: inline-block;
+    text-decoration: none;
+    padding: 15px;
+    border-radius: 50px;
+    text-transform: uppercase;
+    font-size: 12px;
+    color: #fff;
+}
+
+.wpbkash--frontend-report-link {
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    margin: 40px 0 0;
+    color: rgb(127, 134, 139);
+    opacity: 1 !important;
+    -webkit-transition: opacity 0.4s ease 1.2s;
+    transition: opacity 0.4s ease 1.2s;
+}
+
+.wpbkash--frontend-header-wrap a {
+    display: inline-block;
+    color: #fff;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+body.wpbkash-form-page {
+    background-color: #F5F7FA;
+}
+
+
+button.button.wpbkash--simple-btn {
+    padding-left: 40px;
+    padding-right: 40px;
+    -webkit-transition: padding 0.4s;
+    transition: padding 0.4s;
+    border-radius: 4px;
+    color: #fff;
+    background-color: #0663B2;
+}
+
+button.button.wpbkash--simple-btn:hover,
+button.button.wpbkash--simple-btn:focus,
+button.button.wpbkash--simple-btn:active,
+button.button.wpbkash--simple-btn:visited {
+    background-color: #0663B2;
+    outline: none;
+}
+
+button.button.wpbkash--simple-btn.wpbkash_processing {
+    min-width: 178px;
+    text-align: center;
+}
+
+button.button.wpbkash--simple-btn.wpbkash_processing .wpbkash--btn-content {
+    display: none;
+}
+
+button.button.wpbkash--simple-btn img {
+    width: 72px;
+    display: inline-block;
+    margin-left: 6px;
+    top: -1px;
+    position: relative;
+}
+
+span.wpbkash--processing-content {
+    display: none;
+}
+
+button.button.wpbkash--simple-btn.wpbkash_processing span.wpbkash--processing-content {
+    display: block;
+    text-align: center;
+}
+
+span.wpbkash--btn-content {
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    width: 100%;
+    font-weight: normal;
+    text-transform: capitalize;
+}
+
+button.button.wpbkash--simple-btn span.wpbkash--processing-content img {
+    width: 32px;
+    display: block;
+    margin: 0 auto;
+}
+
+.wpbkash--author-thumb {
+    width: 96px;
+    height: 96px;
+    display: -webkit-box;
+    display: flex;
+    border-radius: 50%;
+    box-shadow: rgba(2, 2, 2, 0.3) 0px 5px 12px 0px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.wpbkash--author-thumb h2 {
+    margin: 0;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 45px;
+    opacity: 0.5;
+    line-height: 1;
+}
+
+.wpbkash--frontend-main-contant h4 {
+    font-weight: normal;
+    margin: 0;
+}
+
+.wpbkash--frontend-main-contant button.button.wpbkash--simple-btn {
+    margin-top: 35px;
+}
+
+.wpbkash--hidden-btn {
+    position: absolute;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.wpbkash--message-wrapper {
+    text-align: center;
+}
+
+span.wpbkash--frontend-bdt {
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.wpbkash--msg-response {
+    background-color: #fff;
+    display: -webkit-box;
+    width: 100%;
+    display: none;
+}
+
+.alertify-notifier .ajs-message {
+    background: rgba(255,255,255,.95);
+    color: #000;
+    text-align: center;
+    border: solid 1px #ddd;
+    border-radius: 2px;
+}
+
+
+.wpbkash--msg-text h3 {
+    margin-bottom: 0;
+    font-size: 24px;
+}
+
+.wpbkash--msg-text {
+    margin-top: 15px;
+}
+
+.wpbkash--notice {
+    padding: 1em 1.618em;
+    margin-bottom: 2.617924em;
+    background-color: #0f834d;
+    margin-left: 0;
+    border-radius: 2px;
+    color: #fff;
+    clear: both;
+    border-left: 0.6180469716em solid rgba(0, 0, 0, 0.15);
+    list-style: none;
+}
+
+.wpbkash--logo img {
+    max-width: 250px;
+}
+
+.wpbkash--msg-icon svg {
+    display: inline-block;
+    width: auto;
+}
+
+.wpbkash--notice.wpbkash--notice-error {
+    background-color: #e2401c;
+}
+
+.wpbkash--notice a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.wpbkash--msg-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 9991;
+    background-color: rgba(0,0,0,0.1);
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.wpbkash--msg-wrap {
+    width: 320px;
+    background-color: #fff;
+    padding: 40px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.wpbkash--msg-wrap h6 {
+    margin: 0;
+    line-height: 1;
+    font-size: 18px;
+    color: #111;
+}
+
+
+@-webkit-keyframes checkmark {
+    0% {
+        stroke-dashoffset: 100px
+    }
+
+    100% {
+        stroke-dashoffset: 200px
+    }
+}
+
+@keyframes checkmark {
+    0% {
+        stroke-dashoffset: 100px
+    }
+
+    100% {
+        stroke-dashoffset: 0px
+    }
+}
+
+
+.wpbkash--finished .wpbkash--msg-icon svg polyline {
+    -webkit-animation: checkmark 0.4s ease-in-out 0.4s backwards;
+    animation: checkmark 0.4s ease-in-out 0.4s backwards;
+}
